@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abindoorsedition:block/ukulele",
+      "y": 0
+    },
+    "facing=south": {
+      "model": "abindoorsedition:block/ukulele",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abindoorsedition:block/ukulele",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "abindoorsedition:block/ukulele",
+      "y": 90
+    }
+  }
+}
